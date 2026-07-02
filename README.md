@@ -1,7 +1,7 @@
 # 🤖 MAVERIK AI
 
 <p align="center">
-  <img src="assets/logo.png" alt="Maverik AI Logo" width="180">
+  
 </p>
 
 <p align="center">
